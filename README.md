@@ -1,5 +1,5 @@
 # Hands Detection
-Hands video tracker using the **Tensorflow Object Detection API** and **Faster RCNN model**. The data used is the **"Hand Dataset" from University of Oxford**.
+Hands video tracker using the **Tensorflow Object Detection API** and **Faster RCNN model**. The data used is the **"Hand Dataset" from University of Oxford**. The dataset [can be found here](http://www.robots.ox.ac.uk/~vgg/data/hands/index.html).
 
 ## Installation
 First we need to install the Tensorflow Object Detection API. You can either install dependencies or run the provided docker image.
