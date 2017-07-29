@@ -1,3 +1,9 @@
+*.gz
+*.tmp
+*.record
+models/object_detection/protos
+dataset
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
